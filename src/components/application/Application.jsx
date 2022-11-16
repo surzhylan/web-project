@@ -20,7 +20,7 @@ const Application = () => {
             <div className="application">
             <div className='app_text'>
                 <h2>Запишитесь на консультацию</h2>
-                <p>Поможем выбрать направление в IT и подберем вам курс</p>
+                <p>Поможем выбрать направление в IT и подберем вам курсы</p>
             </div>
             <div className='app_form'>
                 <form className='contact_form' method='POST'>
